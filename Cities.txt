@@ -1,0 +1,43 @@
+[Cities]
+Seattle,purple,20,20,15,Portland,3,Boise,12,Billings,9
+Portland,purple,20,20,15,Seattle,3,Boise,20,San Francisco,24
+Boise,purple,20,20,15,Seattle,12,Portland,13,Billings,12,Cheyenne,24,San Francisco,23
+Billings,purple,20,20,15,Seattle,9,Boise,12,Cheyenne,9,Fargo,17,Minneapolis,18
+Cheyenne,purple,20,20,15,Billings,9,Boise,24,Denver,0,Omaha,14,Minneapolis,18
+Denver,purple,20,20,15,Cheyenne,0,Salt Lake City,21,Santa Fe,13,Kansas City,16
+Omaha,purple,20,20,15,Cheyenne,14,Kansas City,5,Chicago,13,Minneapolis,8
+San Francisco,teal,20,20,15,Portland,24,Boise,23,Salt Lake City,27,Las Vegas,14,Los Angeles,9
+Salt Lake City,teal,20,20,15,Boise,8,San Francisco,27,Las Vegas,18,Santa Fe,28,Denver,21
+Las Vegas,teal,20,20,15,San Francisco,14,Los Angeles,9,San Diego,9,Phoenix,15,Santa Fe,27,Salt Lake City,18
+Los Angeles,teal,20,20,15,San Francisco,9,Las Vegas,9,San Diego,3
+San Diego,teal,20,20,15,Los Angeles,3,Las Vegas,9,Phoenix,14
+Phoenix,teal,20,20,15,San Diego,14,Las Vegas,15,Santa Fe,18
+Santa Fe,teal,20,20,15,Phoenix,18,Las Vegas,27,Salt Lake City,28,Denver,13,Kansas City,16,Oklahoma City,15,Dallas,16,Houston,21
+Kansas City,red,20,20,15,Omaha,5,Denver,16,Santa Fe,16,Oklahoma City,8,Memphis,12,St.Louis,6,Chicago,8
+Oklahoma City,red,20,20,15,Kansas City,8,Santa Fe,15,Dallas,3,Memphis,14
+Dallas,red,20,20,15,Oklahoma City,3,Santa Fe,16,Houston,5,New Orleans,12,Memphis,12
+Houston,red,20,20,15,Santa Fe,21,Dallas,5,New Orleans,8
+Memphis,red,20,20,15,St.Louis,7,Kansas City,12,Oklahoma City,14,Dallas,12,New Orleans,7,Birmingham,6
+New Orleans,red,20,20,15,Memphis,7,Dallas,12,Houston,8,Birmingham,11,Jacksonville,16
+Birmingham,red,20,20,15,Memphis,6,New Orleans,11,Jacksonville,9,Atlanta,3
+Atlanta,green,20,20,15,Birmingham,3,Savannah,7,Raleigh,7,Knoxville,5,St.Louis,12
+Norfolk,green,20,20,15,Washington,5,Raleigh,3
+Raleigh,green,20,20,15,Norfolk,3,Pittsburgh,7,Cincinnati,15,Atlanta,7,Savannah,7
+Savannah,green,20,20,15,Raleigh,7,Atlanta,7,Jacksonville,0
+Jacksonville,green,20,20,15,Savannah,0,Birmingham,9,New Orleans,16,Tampa,4
+Tampa,green,20,20,15,Jacksonville,4,Miami,4
+Miami,green,20,20,15,Tampa,4
+Boston,brown,20,20,15,New York,3
+New York,brown,20,20,15,Boston,3,Buffalo,8,Philadelphia,0
+Philadelphia,brown,20,20,15,New York,0,Washington,3
+Washington,brown,20,20,15,Norfolk,5,Philadelphia,3,Pittsburgh,6
+Buffalo,brown,20,20,15,New York,8,Pittsburgh,7,Detroit,7
+Pittsburgh,brown,20,20,15,Buffalo,7,Detroit,6,Cincinnati,7,Raleigh,7,Washington,6
+Detroit,brown,20,20,15,Duluth,15,Chicago,7,Cincinnati,4,Pittsburgh,6,Buffalo,7
+Fargo,yellow,20,20,15,Billings,17,Minneapolis,6,Duluth,6
+Duluth,yellow,20,20,15,Fargo,6,Minneaplois,5,Chicago,12,Detroit,15
+Minneapolis,yellow,20,20,15,Duluth,5,Fargo,6,Billings,18,Cheyenne,18,Omaha,8,Chicago,8
+Chicago,yellow,20,20,15,Duluth,12,Minneapolis,8,Omaha,13,Kansas,8,St.Louis,10,Cincinnati,7,Detroit,7
+St.Louis,yellow,20,20,15,Chicago,10,Kansas City,6,Memphis,7,Atlanta,12,Cincinnati,12
+Cincinatti,yellow,20,20,15,Detroit,4,Chicago,7,St.Louis,12,Knoxville,6,Raleigh,15,Pittsburgh,7
+Knoxville,yellow,20,20,15,Cincinatti,6,Atlanta,5
